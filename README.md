@@ -66,6 +66,7 @@ bookstore-api/
 📮 API Endpoints Overview
 
 Method	Endpoint	Description
+```
 GET	/api/books/	List all books
 POST	/api/books/	Add a new book
 GET	/api/genres/	List all genres
@@ -73,3 +74,4 @@ GET	/api/authors/	List all authors
 GET	/api/cart/	View user cart
 POST	/api/cart create cart id
 POST	/api/cart/{id}/items	Add item to cart
+```
