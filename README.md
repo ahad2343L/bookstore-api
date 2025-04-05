@@ -75,3 +75,9 @@ GET	/api/cart/	View user cart
 POST	/api/cart create cart id
 POST	/api/cart/{id}/items	Add item to cart
 ```
+
+## License
+This project is open-source and free to use.
+
+## Author
+Developed by Abdul Ahad.
