@@ -31,7 +31,7 @@ A lightweight BookStore API built with Django. This API allows you to manage boo
 1. Clone the repo
 
 ```
-git clone https://github.com/ahad2453l/bookstore-api.git
+git clone https://github.com/ahad2343L/bookstore-api.git
 cd bookstore-api
 ```
 2.Create a virtual environment
