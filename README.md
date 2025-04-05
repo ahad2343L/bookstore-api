@@ -52,7 +52,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 📂 Project Structure
-
+```
 bookstore-api/
 ├── manage.py
 ├── .venv/                   # Virtual environment
@@ -60,7 +60,7 @@ bookstore-api/
 ├── core/                    # Project settings (settings.py, urls.py, wsgi.py)
 ├── authentication/          # Handles user registration/login
 ├── store/                   # Handles books, genres, authors, cart
-
+```
 
 
 📮 API Endpoints Overview
