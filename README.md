@@ -74,7 +74,6 @@ GET	/api/authors/	List all authors
 GET	/api/cart/	View user's cart
 POST	/api/cart/	Create a new cart ID
 POST	/api/cart/{id}/items/	Add item to cart by cart ID
-Let me know if you want to include sample request/response formats too (like JSON examples).
 ```
 
 ## License
